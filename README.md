@@ -19,5 +19,5 @@ DMACheatEngineLoader streamlines the process of adding Direct Memory Access (DMA
 
 ## How to Run
 
-1. **Execute dmace-loader.exe:** Launch Cheat Engine with DMA support by running the `dmace-loader.exe` file located *inside* the `DMACE` folder.  This loader will handle the necessary initialization for DMA support.
+1. **Execute dmace-loader.exe:** Launch Cheat Engine with DMA support by running the `dmace-loader.exe` file.
 2. Video tutorial: https://youtu.be/iiqf3pV-H38
