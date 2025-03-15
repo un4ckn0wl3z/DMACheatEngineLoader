@@ -16,7 +16,8 @@ DMACheatEngineLoader streamlines the process of adding Direct Memory Access (DMA
 
 1. **Install Cheat Engine:** Ensure you have a working installation of Cheat Engine.
 2. **Copy Cheat Engine:** Copy the *entire* contents of your Cheat Engine installation directory into the `DMACE` folder provided in this repository.  Overwrite any files if prompted.  The structure inside the `DMACE` folder should mirror your original Cheat Engine installation.
-3. Video tutorial: https://youtu.be/iiqf3pV-H38
+3. DMA Video tutorial: https://youtu.be/iiqf3pV-H38
+4. DMA-VM Video tutorial: https://youtu.be/p72I9S3wItI
 
 ## How to Run
 
